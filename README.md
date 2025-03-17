@@ -34,7 +34,7 @@ First, install Autocomplete itself. Here are some way to do so:
       plugin manager yet, I recommend using [Znap](https://github.com/marlonrichert/zsh-snap).)
     * Clone the repo directly:
       ```sh
-      % git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git
+      git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git
       ```
 
 After installing, make the following modifications to your shell config:
